@@ -1,0 +1,26 @@
+{
+    "name": "bankocr-python",
+    "version": "1.0.0",
+    "description": "This repository contains starting setup for [Bank OCR kata](http://codingdojo.org/kata/BankOCR/)",
+    "main": "index.js",
+    "directories": {
+        "test": "tests"
+    },
+    "scripts": {
+        "test": "jest --watchAll"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Pekinek/BankOCR-Python.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Pekinek/BankOCR-Python/issues"
+    },
+    "homepage": "https://github.com/Pekinek/BankOCR-Python#readme",
+    "devDependencies": {
+        "jest": "^29.7.0"
+    }
+}
